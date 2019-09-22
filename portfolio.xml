@@ -340,9 +340,9 @@
         <item>
             <title>MyHomeTheatre</title>
             <image>14.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://myhometheatre.ru/</original>
-                <archived></archived>
+                <archived>https://web.archive.org/web/20071010102202/http://myhometheatre.ru/</archived>
             </link>
             <description>
                 Home theaters and appliances
@@ -428,9 +428,9 @@
         <item>
             <title>MacPromBank</title>
             <image>20.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://mpb.ru/</original>
-                <archived></archived>
+                <archived>https://web.archive.org/web/20050211213001/http://www.mpb.ru/ru/</archived>
             </link>
             <description>
                 Moscow bank's website.
