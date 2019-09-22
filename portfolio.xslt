@@ -29,10 +29,6 @@
                     </div>
                     <br />
                     <xsl:apply-templates select="portfolio/list/item[not(link/@dead)]" />
-                    <hr />
-                    <h5 align="center">&#10014; &#10014; &#10014;</h5>
-                    <hr class="light" />
-                    <br />
                     <xsl:apply-templates select="portfolio/list/item[link/@dead='true']" />
                     <div align="center" class="footer">
                         <img src="https://github.githubassets.com/favicon.ico" width="18" />
