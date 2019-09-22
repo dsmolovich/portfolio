@@ -1,4 +1,4 @@
-#A simplest portfolio generator
+# A simplest portfolio generator
 
 `/bin/sh generate.sh` will generate static `index.html` file.
 
