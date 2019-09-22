@@ -2,100 +2,110 @@
 <portfolio>
     <list>
         <item>
-            <title>TaaSty</title>
-            <image></image>
-            <link>
-                <original>https://taasty.net/</original>
-                <archived></archived>
-            </link>
-            <description>
-                Testing as a Service platform
-            </description>
-        </item>
-
-        <item>
             <title>LaCordie</title>
-            <image></image>
+            <image>lacordee.png</image>
             <link>
                 <original>https://www.lacordee.com/</original>
                 <archived></archived>
             </link>
             <description>
-                eShop. Outdoor, Sports, Bike and Ski
+                Outdoor, sports, bikes, skis and winter equipment.
+                Integrated with <a href="https://retail-1.acceo.com/">Acceo Retail-1</a> POS system.
             </description>
         </item>
 
         <item>
             <title>Running Room</title>
-            <image></image>
+            <image>runningroom.png</image>
             <link>
                 <original>https://runningroom.com/</original>
                 <archived></archived>
             </link>
             <description>
-                Running Room clinics - online or in-store, a community of runners. eShop.
+                Running Room clinics - online or in-store, a community of runners and eShop which is
+                integrated with <a href="https://retail-1.acceo.com/">Acceo Retail-1</a> POS system.
             </description>
         </item>
 
         <item>
             <title>Swimco</title>
-            <image></image>
+            <image>swimco.png</image>
             <link>
                 <original>https://www.swimco.com</original>
                 <archived></archived>
             </link>
             <description>
-                Swimwear &amp; Beachwear For Women, Men &amp; Kids
+                Swimwear &amp; Beachwear For Women, Men &amp; Kids.
+                Integrated with <a href="https://retail-1.acceo.com/">Acceo Retail-1</a> POS system.
             </description>
         </item>
 
         <item>
             <title>Manteaux</title>
-            <image></image>
+            <image>manteaux.png</image>
             <link>
                 <original>https://www.manteaux.com/</original>
                 <archived></archived>
             </link>
             <description>
-
+                Jackets, coats, sweaters, scarves, umbrellas, tuques and hats.
+                Integrated with <a href="https://retail-1.acceo.com/">Acceo Retail-1</a> POS system.
             </description>
         </item>
 
         <item>
             <title>Caroline Neron</title>
-            <image></image>
+            <image>carolineneron.png</image>
             <link>
                 <original>https://www.carolineneron.com/</original>
                 <archived></archived>
             </link>
             <description>
-                eShop. Necklaces, earrrings, bracelets, rings, anklets, watches, sunglasses, luxury jewelry, etc.
+                Necklaces, earrrings, bracelets, rings, anklets, watches, sunglasses, luxury jewelry, etc.
+                Integrated with <a href="https://retail-1.acceo.com/">Acceo Retail-1</a> POS system.
             </description>
         </item>
 
         <item>
             <title>Lilianne Lingerie</title>
-            <image></image>
+            <image>lilianne.png</image>
             <link>
                 <original>https://www.liliannelingerie.com/</original>
                 <archived></archived>
             </link>
             <description>
-                eShop. Bras, panties, bikini, pyjamas, etc.
+                Bras, panties, bikini, pyjamas, etc.
+                Integrated with <a href="https://retail-1.acceo.com/">Acceo Retail-1</a> POS system.
             </description>
         </item>
 
         <item>
             <title>RealBiz 360</title>
-            <image></image>
+            <image>realbiz360.png</image>
             <link>
                 <original>https://www.realbiz360.com/</original>
                 <archived></archived>
             </link>
             <description>
-                Real Estate SaaS platform
+                Real Estate SaaS platform providing real estate brokerages and agents ability to make video tours out of
+                a set of uploaded propery images and market it at . Integrated with cable netwroks such as Comcast and Cox.
+                More info at <a href="http://realbizmedia.com/">RealBizMedia website</a>.
             </description>
         </item>
+
+        <item>
+            <title>TaaS<sup>ty</sup></title>
+            <image>taasty.png</image>
+            <link>
+                <original>https://taasty.net/dashboard/</original>
+                <archived></archived>
+            </link>
+            <description>
+                Testing as a Service platform. Developer teams push the code, TaaS<sup>ty</sup> runs behavioral UI tests and replies with the
+                test results. Great for regression testing as well as for project's testing upgrade paths.
+            </description>
+        </item>
+
         <item>
             <title>Allwest Furnishing</title>
             <image>52.jpg</image>
@@ -104,7 +114,7 @@
                 <archived>https://web.archive.org/web/20101128025920/http://www.allwestfurnishing.com:80/services/</archived>
             </link>
             <description>
-                Full-service office furniture retailer
+                Full-service office furniture retailer.
             </description>
         </item>
 
@@ -116,7 +126,7 @@
                 <archived>https://web.archive.org/web/20110128112048/http://mccrums.com/</archived>
             </link>
             <description>
-                Full-service office furniture retailer
+                Full-service office furniture retailer.
             </description>
         </item>
         <item>
@@ -133,7 +143,7 @@
         <item>
             <title>Teknion ONE Newsletter</title>
             <image>47.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://teknionone.com/</original>
                 <archived>https://web.archive.org/web/20110202003343/http://teknionone.com/</archived>
             </link>
@@ -145,13 +155,40 @@
             <title>Groupe Focus</title>
             <image>49.jpg</image>
             <link>
+                <original>http://groupefocus.com/</original>
+                <archived>https://web.archive.org/web/20090217100245/http://groupefocus.com/fr/</archived>
+            </link>
+            <description>
+                Full-service office furniture retailer.
+            </description>
+        </item>
+
+        <item>
+            <title>Power Soccer Management</title>
+            <image>45.jpg</image>
+            <link>
                 <original>http://groupefocus.com/fr/</original>
                 <archived>https://web.archive.org/web/20090217100245/http://groupefocus.com/fr/</archived>
             </link>
             <description>
-                Full-service office furniture retailer
+                CRM for <a href="http://www.powersoccer.ca/">PowerSoccer</a> to manage registrations, classes, programs and camps.
+                Provides its coaches with all necessary information about their current classes and players.
             </description>
         </item>
+
+        <item>
+            <title>HomesAway Online Booking</title>
+            <image>46.jpg</image>
+            <link>
+                <original>http://groupefocus.com/fr/</original>
+                <archived>https://web.archive.org/web/20090217100245/http://groupefocus.com/fr/</archived>
+            </link>
+            <description>
+                Online booking system that helps <a href="http://www.homesaway.com/">HomesAway.com</a> to calculate expenses
+                and benefits, book properties for rent and store all this information for further usage.
+            </description>
+        </item>
+
         <item>
             <title>AgentStalker</title>
             <image>54.png</image>
@@ -171,11 +208,16 @@
                 <archived>https://web.archive.org/web/20080816005628/http://lawquo.com/</archived>
             </link>
             <description>
-                LawQuo is a large scale network of legal sites with its core project and marketplace at
-                <a href="https://web.archive.org/web/20080920052215/http://lawquonet.com/">LawQuoNet</a>.
-                When project was launched the network consisted of 938 legal sites and it was ready for the further growing.
-
-                Each web site is an independent web-project and is able to be hosted on its own virtual, shared or dedicated server, living by its own life and getting daily updates from one of the central projects: LawQuo.com and LawQuoNet.com
+                <p>
+                    Network of legal web sites with its core project and marketplace
+                    <a href="https://web.archive.org/web/20080920052215/http://lawquonet.com/">LawQuoNet</a>
+                    driven by a bidding subsystem.
+                    When project was launched the network consisted of 938 legal sites, ready for the further scaling.
+                </p>
+                <p>
+                    Each web site is an independent web-project and is able to be hosted on its own virtual, shared or dedicated server,
+                    receiving daily sync-up updates from one of the central projects: LawQuo.com and LawQuoNet.com
+                </p>
             </description>
         </item>
         <item>
@@ -186,9 +228,14 @@
                 <archived>https://web.archive.org/web/20100618023809/http://www.utkonos.ru:80/cat/</archived>
             </link>
             <description>
-                Online shop based on SAP R/3. Shop information updates and exchanges with XML based gateways.
+                <p>
+                    Online shop highly integrated with <a href="https://en.wikipedia.org/wiki/SAP_R/3">SAP R/3</a>.
+                    Product, order, customer data flows bothways.
+                </p>
 
-                <a href="http://ezhe.ru/POTOP/results.html?do=res;2008;24">The Internet Shop of the Year 2008</a> #1 award winner.
+                <p>
+                    #1 award winner at the <a href="http://ezhe.ru/POTOP/results.html?do=res;2008;24">Internet Shop of the Year 2008</a> contest.
+                </p>
             </description>
         </item>
         <item>
@@ -196,10 +243,10 @@
             <image>2.jpg</image>
             <link>
                 <original>http://vstroy-center.ru/</original>
-                <archived></archived>
+                <archived>https://web.archive.org/web/20110828054724/http://www.vstroy-center.ru/</archived>
             </link>
             <description>
-                Online shop offers kitchen built-in appliances.
+                Online shop selling kitchen built-in appliances.
             </description>
         </item>
         <item>
@@ -210,7 +257,7 @@
                 <archived>https://web.archive.org/web/20060211204814/http://www.vip-technics.ru/</archived>
             </link>
             <description>
-                Online shop sells expensive kitchen appliances.
+                Online shop selling VIP kitchen appliances.
             </description>
         </item>
         <item>
@@ -221,7 +268,7 @@
                 <archived>https://web.archive.org/web/20061217205728/http://www.ac1.ru:80/</archived>
             </link>
             <description>
-                Furniture on-line shop
+                Furniture online shop.
             </description>
         </item>
         <item>
@@ -232,18 +279,18 @@
                 <archived>https://web.archive.org/web/20070227123224/http://www.prostocomp.ru/</archived>
             </link>
             <description>
-                Web project sells computer, audio, video and other devices
+                Online shop selling computers, laptops, audio, video and other devices.
             </description>
         </item>
         <item>
             <title>MTA</title>
             <image>7.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://www.mta.ru/</original>
                 <archived></archived>
             </link>
             <description>
-                Web site of logistics company
+                Moscow transport logistics company.
             </description>
         </item>
         <item>
@@ -254,7 +301,7 @@
                 <archived>https://web.archive.org/web/20070910223241/http://www.onclimat.ru:80/</archived>
             </link>
             <description>
-                Sells air conditioners, fans, air humidifiers, water filters and heat systems
+                Sells air conditioners, fans, air humidifiers, water filters and heat systems.
             </description>
         </item>
         <item>
@@ -265,7 +312,7 @@
                 <archived>https://web.archive.org/web/20080708130912/http://shop.hyperline.com/</archived>
             </link>
             <description>
-
+                Networking hardware: fiber optic, cords, cables, patches, connections, tools.
             </description>
         </item>
         <item>
@@ -276,7 +323,7 @@
                 <archived>https://web.archive.org/web/20070626113617/http://www.mosokna.ru:80/</archived>
             </link>
             <description>
-                Sells windows and doors
+                Moscow windows and doors retailer and installation company.
             </description>
         </item>
         <item>
@@ -287,7 +334,7 @@
                 <archived>https://web.archive.org/web/20070207094718/http://mystereosystem.ru/</archived>
             </link>
             <description>
-                Sells home theaters and appliances
+                Home stereo systems and appliances.
             </description>
         </item>
         <item>
@@ -298,7 +345,7 @@
                 <archived></archived>
             </link>
             <description>
-                Sells home theaters and appliances
+                Home theaters and appliances
             </description>
         </item>
         <item>
@@ -309,7 +356,7 @@
                 <archived>https://web.archive.org/web/20070207135721/http://myvideosystem.ru/</archived>
             </link>
             <description>
-                Sells video systems
+                Audio, video, TV, LCD etc.
             </description>
         </item>
         <item>
@@ -320,29 +367,29 @@
                 <archived>https://web.archive.org/web/20071116182136/http://client.rbcsoft.ru/</archived>
             </link>
             <description>
-                CRM system for Maintenance Department of RBC Soft Company.
+                CRM system developed for Maintenance Department of RBC Soft Company. Helped keep in touch with company's customers.
             </description>
         </item>
         <item>
             <title>Valaam Monastery</title>
             <image>4.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://valaam.ru/</original>
                 <archived></archived>
             </link>
             <description>
-                Site of Valaam Monastery in two languages: Russian and English.
+                Valaam Monastery's website.
             </description>
         </item>
         <item>
             <title>GazProm-Media</title>
             <image>19.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://gazprom-media.com/</original>
                 <archived></archived>
             </link>
             <description>
-                Media branch's site of <a href="https://gazprom.ru/">GazProm Corporation</a>
+                Media branch's site of <a href="https://gazprom.ru/">GazProm Corporation</a>.
             </description>
         </item>
         <item>
@@ -353,13 +400,13 @@
                 <archived>https://web.archive.org/web/20051102055013/http://www.pecom.ru:80/ru/</archived>
             </link>
             <description>
-                Logistics company
+                Logistics company.
             </description>
         </item>
         <item>
             <title>SlavinvestBank</title>
             <image>17.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://slavinvest.ru/en/</original>
                 <archived></archived>
             </link>
@@ -370,7 +417,7 @@
         <item>
             <title>Rosan</title>
             <image>18.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://rosan.ru/en/</original>
                 <archived></archived>
             </link>
@@ -386,7 +433,7 @@
                 <archived></archived>
             </link>
             <description>
-
+                Moscow bank's website.
             </description>
         </item>
         <item>
@@ -397,29 +444,29 @@
                 <archived>https://web.archive.org/web/20060426011231/http://diamash.ru/</archived>
             </link>
             <description>
-
+                Russian large retailer of industrial pumping systems.
             </description>
         </item>
         <item>
             <title>Fitness Formula</title>
             <image>22.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://fitnessformula.ru/</original>
                 <archived></archived>
             </link>
             <description>
-                Fitness center
+                Fitness center.
             </description>
         </item>
         <item>
             <title>World Class</title>
             <image>23.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://wclass-saratov.ru/</original>
                 <archived></archived>
             </link>
             <description>
-                Fitness center
+                Fitness center.
             </description>
         </item>
         <item>
@@ -430,7 +477,9 @@
                 <archived>https://web.archive.org/web/20050311230309/http://gstaad.rbc.ru/ru/</archived>
             </link>
             <description>
-
+                Economic forum devoted to the discussion of current trends in Russian and Ukrainian domestic economic policy
+                and their effects on the investment and business climate; exchange of views on various issues in economics,
+                finance, banking and investment. 2005.
             </description>
         </item>
         <item>
@@ -441,13 +490,13 @@
                 <archived>https://web.archive.org/web/20050206032740/http://hk.rbc.ru/en/</archived>
             </link>
             <description>
-
+                Euroasia's economic forum taken place in Hong Kong in 2004.
             </description>
         </item>
         <item>
             <title>Exceed WMS</title>
             <image>26.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://i2.rbc.ru/</original>
                 <archived></archived>
             </link>
@@ -458,29 +507,29 @@
         <item>
             <title>RosBank</title>
             <image>27.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://rosbank.ru/</original>
                 <archived></archived>
             </link>
             <description>
-
+                Russian Bank headquartered in Moscow, Russia. Rosbank's assets are the 12th among Russian banks.
             </description>
         </item>
         <item>
             <title>Dolores Beauty Salon</title>
             <image>28.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://dolores.ru/</original>
                 <archived></archived>
             </link>
             <description>
-
+                Luxury beauty salon in Moscow.
             </description>
         </item>
         <item>
             <title>Orange Fitness</title>
             <image>29.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://orangefit.ru/</original>
                 <archived></archived>
             </link>
@@ -496,7 +545,7 @@
                 <archived>https://web.archive.org/web/20060209074620/http://www.volna-auto.ru:80/</archived>
             </link>
             <description>
-
+                Hyundai car dealer.
             </description>
         </item>
         <item>
@@ -507,13 +556,13 @@
                 <archived>https://web.archive.org/web/20050307031644/http://eng.tpprf.ru/</archived>
             </link>
             <description>
-
+                Examination of goods, protection of intellectual property etc.
             </description>
         </item>
         <item>
             <title>Arkis</title>
             <image>32.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://arkis.ru/</original>
                 <archived></archived>
             </link>
@@ -529,18 +578,18 @@
                 <archived>https://web.archive.org/web/20050206093807/http://loveradio.ru/</archived>
             </link>
             <description>
-
+                Radio station headquartered in Moscow.
             </description>
         </item>
         <item>
             <title>Russian Standard Bank</title>
             <image>34.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://rs.ru/ru/ir/</original>
                 <archived></archived>
             </link>
             <description>
-
+                One of the largest Russian banks and the country's leading consumer lender.
             </description>
         </item>
         <item>
@@ -548,10 +597,10 @@
             <image>35.jpg</image>
             <link>
                 <original>http://avtoline.ru/</original>
-                <archived></archived>
+                <archived>https://web.archive.org/web/20050210062602/http://www.avtoline.ru/</archived>
             </link>
             <description>
-                Transportation company
+                Transportation company.
             </description>
         </item>
         <item>
@@ -559,16 +608,16 @@
             <image>36.jpg</image>
             <link>
                 <original>http://mitsubishi-motors.ru/</original>
-                <archived></archived>
+                <archived>https://web.archive.org/web/20060308125421/http://mitsubishi-motors.ru/</archived>
             </link>
             <description>
-
+                Mitsubishi Motors car dealer.
             </description>
         </item>
         <item>
             <title>Solo Office Furniture</title>
             <image>37.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://solo.ru/en/</original>
                 <archived></archived>
             </link>
@@ -579,12 +628,12 @@
         <item>
             <title>Russian Tea Company</title>
             <image>40.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://rusteaco.ru/</original>
                 <archived></archived>
             </link>
             <description>
-
+                Large Russian tea distributor.
             </description>
         </item>
         <item>
@@ -595,7 +644,7 @@
                 <archived>http://web.archive.org/web/20030603101003/http://www.estrokom.ru/</archived>
             </link>
             <description>
-
+                Varnishes, paints, polyimide films and other industrial chemicals manufacturer.
             </description>
         </item>
         <item>
@@ -606,18 +655,19 @@
                 <archived>https://web.archive.org/web/20051129010840/http://www.egypt.ru/</archived>
             </link>
             <description>
-                Web project about travelling to Egypt. Made for TezTour Tourist Operator
+                Egypt vacations, tour guides and forum.  Made for <a href="https://www.tez-tour.com/">TezTour</a>
+                one of the largest Russion tourist operator.
             </description>
         </item>
         <item>
             <title>Immigration Bureau</title>
             <image>41.jpg</image>
-            <link>
+            <link dead="true">
                 <original>http://imbur.ru/</original>
                 <archived></archived>
             </link>
             <description>
-
+                Immigration lawyer's websites.
             </description>
         </item>
 
@@ -629,18 +679,20 @@
                 <archived></archived>
             </link>
             <description>
-                English private teacher's website
+                English private teacher's website in Smolenks, Russia.
             </description>
         </item>
         <item>
-            <title>Demo Version of D.S.CMS (Content Management System)</title>
+            <title>D.S.CMS</title>
             <image>43.jpg</image>
             <link>
                 <original>http://demo.smolovich.ru/</original>
                 <archived>https://web.archive.org/web/20120308110345/http://demo.smolovich.ru/</archived>
             </link>
             <description>
-                Demo version of my content management system. You can try it online.
+                Demo version of my content management system built back in 2004. It helped me to build a number of web projects for
+                various clients back in 2000s while significanly reducing cost for the development and lowering prices for clients.
+                Discontinued.
             </description>
         </item>
 
