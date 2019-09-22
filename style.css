@@ -4,6 +4,13 @@ body{
     font-family: Arial, Verdana, Tahoma;
     font-size: 12px;
 }
+div.header, div.footer{
+    background-color: #e5e5e5;
+    padding: 5px;
+}
+div.footer{
+    margin: 15px 0 0 0;
+}
 div.portfolio{
     width: 600px;
     border: 1px solid #000000;

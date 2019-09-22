@@ -22,7 +22,7 @@
             </head>
             <body>
                 <div class="portfolio">
-                    <div align="center" style="background-color: #e5e5e5;">
+                    <div align="center" class="header">
                         <b>Linked<span class="linkedIN">in</span></b>
                         <xsl:text> </xsl:text>
                         <a href="http://www.linkedin.com/in/dsmolovich"><b>Dmitry Smolovich</b></a>
@@ -34,6 +34,11 @@
                     <hr class="light" />
                     <br />
                     <xsl:apply-templates select="portfolio/list/item[link/@dead='true']" />
+                    <div align="center" class="footer">
+                        <img src="https://github.githubassets.com/favicon.ico" width="18" />
+                        <xsl:text> </xsl:text>
+                        <a href="https://github.com/dsmolovich/portfolio">https://github.com/dsmolovich/portfolio</a>
+                    </div>
                 </div>
             </body>
         </html>

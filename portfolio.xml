@@ -659,17 +659,6 @@
                 one of the largest Russion tourist operator.
             </description>
         </item>
-        <item>
-            <title>Immigration Bureau</title>
-            <image>41.jpg</image>
-            <link dead="true">
-                <original>http://imbur.ru/</original>
-                <archived></archived>
-            </link>
-            <description>
-                Immigration lawyer's websites.
-            </description>
-        </item>
 
         <item>
             <title>English in Smolensk</title>
@@ -693,6 +682,18 @@
                 Demo version of my content management system built back in 2004. It helped me to build a number of web projects for
                 various clients back in 2000s while significanly reducing cost for the development and lowering prices for clients.
                 Discontinued.
+            </description>
+        </item>
+
+        <item>
+            <title>Immigration Bureau</title>
+            <image>41.jpg</image>
+            <link dead="true">
+                <original>http://imbur.ru/</original>
+                <archived></archived>
+            </link>
+            <description>
+                Immigration lawyer's websites.
             </description>
         </item>
 
