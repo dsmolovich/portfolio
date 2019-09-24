@@ -20,7 +20,7 @@
                 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
                 <link rel="stylesheet" type="text/css" href="style.css" />
                 <!-- Global site tag (gtag.js) - Google Analytics -->
-                <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-8494354-5"></script>
+                <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-8494354-5"><xsl:text> </xsl:text></script>
                 <script>
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
