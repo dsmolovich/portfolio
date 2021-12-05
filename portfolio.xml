@@ -2,6 +2,22 @@
 <portfolio>
     <list>
         <item>
+            <title>GoodLife Fitness Corporate</title>
+            <image>goodlifefitness-corporate.png</image>
+            <link>
+                <original>https://corporate.goodlifefitness.com/</original>
+                <!--
+                <archived>https://web.archive.org/web/20210908233527/https://www.goodlifefitness.com/content/goodlife-corporate/en/organisation-validation.html</archived>
+                -->
+            </link>
+            <description>
+                Largest Canadian fitness club network's corporate membership management platform allowing companies' employees
+                to self serve their membership group plans.<br />
+                Backed by <a href="https://magento.com/">Adobe Commerce (Magento)</a> and integrated with GoodLife API.
+            </description>
+        </item>
+
+        <item>
             <title>LaCordie</title>
             <image>lacordee.png</image>
             <link>
