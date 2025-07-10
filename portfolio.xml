@@ -113,11 +113,11 @@
             <title>TaaS<sup>ty</sup></title>
             <image>taasty.png</image>
             <link>
-                <original>https://taasty.net/dashboard/</original>
+                <original>https://taasty.net/</original>
                 <archived></archived>
             </link>
             <description>
-                Testing as a Service platform. Developer teams push the code, TaaS<sup>ty</sup> runs behavioral UI tests and replies with the
+                Testing as a Service platform. Developer teams push the code, TaaS<sup>ty</sup> runs behavioral e2e tests, records screen videos, application's logs and replies with the
                 test results. Great for regression testing as well as for project's testing upgrade paths.
             </description>
         </item>
