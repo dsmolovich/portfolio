@@ -159,7 +159,7 @@
         <item>
             <title>Teknion ONE Newsletter</title>
             <image>47.jpg</image>
-            <link dead="true">
+            <link>
                 <original>http://teknionone.com/</original>
                 <archived>https://web.archive.org/web/20110202003343/http://teknionone.com/</archived>
             </link>
@@ -183,7 +183,7 @@
             <title>Power Soccer Management</title>
             <image>45.jpg</image>
             <link dead="true">
-                <original>http://groupefocus.com/fr/</original>
+                <original>http://powersoccer.com/fr/</original>
                 <archived>https://web.archive.org/web/20090217100245/http://powersoccer.com/fr/</archived>
             </link>
             <description>
@@ -196,7 +196,7 @@
             <title>HomesAway Online Booking</title>
             <image>46.jpg</image>
             <link dead="true">
-                <original>http://groupefocus.com/fr/</original>
+                <original>http://www.homesaway.com/</original>
                 <archived>https://web.archive.org/web/20071217055643/http://www.homesaway.com/</archived>
             </link>
             <description>
@@ -681,7 +681,7 @@
             <image>44.jpg</image>
             <link>
                 <original>http://smolenglish.ru/</original>
-                <archived></archived>
+                <archived>https://web.archive.org/web/20220322144517/https://smolenglish.ru/</archived>
             </link>
             <description>
                 English private teacher's website in Smolenks, Russia.
