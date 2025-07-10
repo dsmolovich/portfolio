@@ -34,7 +34,7 @@
                     <div align="center" class="header">
                         <b>Linked<span class="linkedIN">in</span></b>
                         <xsl:text> </xsl:text>
-                        <a href="http://www.linkedin.com/in/dsmolovich"><b>Dmitry Smolovich</b></a>
+                        <a href="https://www.linkedin.com/in/dsmolovich"><b>Dmitry Smolovich</b></a>
                     </div>
                     <br />
                     <xsl:apply-templates select="portfolio/list/item[not(link/@dead)]" />
