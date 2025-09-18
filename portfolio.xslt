@@ -105,7 +105,7 @@
     </xsl:template>
 
     <xsl:template match="item/image">
-        <a href="{../link/original}">
+        <a href="img/{.}" target="preview">
             <img src="img/{.}" width="150" />
         </a>
     </xsl:template>
