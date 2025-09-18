@@ -2,6 +2,30 @@
 <portfolio>
     <list>
         <item>
+            <title>AI Customer Support Assistant</title>
+            <image>ai-customer-support-assistant.png</image>
+            <link>
+                <original>https://github.com/jperanson/nms-support-agent</original>
+            </link>
+            <description>
+                AI driven customer support assistant allowing human agent generate replies to customers.
+                It also allows to submit corrected replies to the augment agent's knowledge base (RAG).
+                The system consists of 3 major components:
+                <ul>
+                    <li>GMail Add-on</li>
+                    <li><a href="https://github.com/jperanson/nms-support-agent">Middleware microservice</a></li>
+                    <li><a href="https://github.com/jperanson/nms-mcp-server">MCP Server</a></li>
+                </ul>
+                It integrates with any of the next AI providers: 
+                <ul>
+                    <li><a href="https://gemini.google.com/">Gemini AI</a></li>
+                    <li><a href="https://customgpt.com/">CustomGPT</a></li>
+                    <li><a href="https://ollama.ai/">Ollama</a> running on-premise</li>
+                </ul>
+            </description>
+        </item>
+
+        <item>
             <title>GoodLife Fitness Corporate</title>
             <image>goodlifefitness-corporate.png</image>
             <link>
